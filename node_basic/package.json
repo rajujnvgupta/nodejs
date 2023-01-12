@@ -1,0 +1,17 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "Learning Node.js From Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "rajuugupta",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

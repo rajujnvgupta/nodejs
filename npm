@@ -1,0 +1,5 @@
+npm init          ##to initialie npm package  
+npm start             ##used to start project node app.js
+npm run start-server  ##used to start project node app.js
+npm install nodemon --save-dev  ## auto start of project where file changes detected
+npm install nodemon -g  ##install globally for project restart while file changes detected
